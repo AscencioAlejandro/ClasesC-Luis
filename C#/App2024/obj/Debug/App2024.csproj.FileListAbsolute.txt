@@ -1,0 +1,7 @@
+C:\Users\Ascencio Martinez\Desktop\ClasesC-Luis\C#\App2024\bin\Debug\App2024.exe.config
+C:\Users\Ascencio Martinez\Desktop\ClasesC-Luis\C#\App2024\bin\Debug\App2024.exe
+C:\Users\Ascencio Martinez\Desktop\ClasesC-Luis\C#\App2024\bin\Debug\App2024.pdb
+C:\Users\Ascencio Martinez\Desktop\ClasesC-Luis\C#\App2024\obj\Debug\App2024.csproj.AssemblyReference.cache
+C:\Users\Ascencio Martinez\Desktop\ClasesC-Luis\C#\App2024\obj\Debug\App2024.csproj.CoreCompileInputs.cache
+C:\Users\Ascencio Martinez\Desktop\ClasesC-Luis\C#\App2024\obj\Debug\App2024.exe
+C:\Users\Ascencio Martinez\Desktop\ClasesC-Luis\C#\App2024\obj\Debug\App2024.pdb
